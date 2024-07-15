@@ -1,0 +1,12 @@
+langchain
+openai
+chromadb
+tiktoken
+unstructured
+pydantic
+sentence_transformers
+faiss-cpu
+google-search-results
+numexpr
+langchain_openai
+fireworks-ai
